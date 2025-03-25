@@ -7,12 +7,12 @@ Evaluation of Vocal Source Separation Models for Automatic Generation of Query-b
 
 ```mermaid
 flowchart TB;
-	A[collection] --> B[chroma];
+	A[/collection/] --> B[chroma];
 	A --> C[pitch];
 	B --> D[dtw chroma];
 	C --> E[dtw pitch];
-	D --> F[evaluation];
-	E --> F[evaluation];
+	D --> F[/evaluation/];
+	E --> F;
 ```
 
 ## How to run
