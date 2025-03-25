@@ -1,0 +1,8 @@
+numpy
+librosa
+pandas
+matplotlib
+spleeter
+openunmix
+torch
+torch-audio
