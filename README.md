@@ -3,6 +3,18 @@ Evaluation of Vocal Source Separation Models for Automatic Generation of Query-b
 
 [**Paper**](Evaluation_of_Vocal_Source_Separation_Models_for_Automatic_Generation_of_Query_by_Humming_Database.pdf)
 
+## Pipeline
+
+```mermaid
+flowchart TB;
+	A[collection] --> B[chroma];
+	A --> C[pitch];
+	B --> D[dtw chroma];
+	C --> E[dtw pitch];
+	D --> F[evaluation];
+	E --> F[evaluation];
+```
+
 ## How to run
 
 **Clone the repository**
