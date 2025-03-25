@@ -1,6 +1,8 @@
 # QBH Catalog
 Evaluation of Vocal Source Separation Models for Automatic Generation of Query-by-Humming Database
 
+[**Paper**](Evaluation_of_Vocal_Source_Separation_Models_for_Automatic_Generation_of_Query_by_Humming_Database.pdf)
+
 ## How to run
 
 **Clone the repository**
