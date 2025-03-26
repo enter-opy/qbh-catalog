@@ -6,3 +6,4 @@ spleeter
 openunmix
 torch
 torch-audio
+notebook
