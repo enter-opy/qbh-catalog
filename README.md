@@ -20,7 +20,7 @@ flowchart TB;
 **Clone the repository**
 
 ```bash
-git clone https://github.com/enter-opy/qbh-catalog.git
+git clone https://github.com/vivekvjyn/qbh-catalog.git
 cd qbh-catalog
 ```
 
